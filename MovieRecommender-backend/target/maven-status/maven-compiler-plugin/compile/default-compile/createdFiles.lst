@@ -1,0 +1,15 @@
+com\MovieWebApp\MovieRecommender\Pair.class
+com\MovieWebApp\MovieRecommender\Model\GenomeScore.class
+com\MovieWebApp\MovieRecommender\Controller\MovieController.class
+com\MovieWebApp\MovieRecommender\Model\Movie.class
+com\MovieWebApp\MovieRecommender\Repository\IdLinkRepository.class
+com\MovieWebApp\MovieRecommender\Model\GenomeScoreKey.class
+com\MovieWebApp\MovieRecommender\Service\MovieService.class
+com\MovieWebApp\MovieRecommender\Repository\GenomeScoreRepository.class
+com\MovieWebApp\MovieRecommender\Model\IdLink.class
+com\MovieWebApp\MovieRecommender\Model\GenomeTag.class
+com\MovieWebApp\MovieRecommender\Model\MovieTag.class
+com\MovieWebApp\MovieRecommender\Model\Rating.class
+com\MovieWebApp\MovieRecommender\MovieRecommenderApplication.class
+com\MovieWebApp\MovieRecommender\Repository\MovieRepository.class
+com\MovieWebApp\MovieRecommender\Repository\GenomeTagRepository.class

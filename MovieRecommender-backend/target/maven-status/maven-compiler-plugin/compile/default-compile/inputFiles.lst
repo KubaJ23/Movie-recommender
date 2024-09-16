@@ -1,0 +1,15 @@
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Controller\MovieController.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Model\GenomeScore.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Model\GenomeScoreKey.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Model\GenomeTag.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Model\IdLink.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Model\Movie.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Model\MovieTag.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Model\Rating.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\MovieRecommenderApplication.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Pair.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Repository\GenomeScoreRepository.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Repository\GenomeTagRepository.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Repository\IdLinkRepository.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Repository\MovieRepository.java
+D:\Intellij programs\MovieRecommender\src\main\java\com\MovieWebApp\MovieRecommender\Service\MovieService.java
