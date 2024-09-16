@@ -1,0 +1,124 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: rgba(0, 0, 0, 0.699);
+}
+/* * {
+  border: 1px solid black;
+} */
+h1 {
+  color: white;
+}
+#selectMoviesContainer > p {
+  color: white;
+}
+
+body div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.container {
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.movieContainer {
+  min-height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 5px;
+  row-gap: 5px; */
+}
+
+.movieSearch {
+  border-radius: 10px;
+  height: 3em;
+  width: 100%;
+  box-sizing: border-box;
+  padding-left: 1em;
+}
+
+.movieContainer > div {
+  border-radius: 5px;
+  padding: 0px;
+  margin: 2px;
+  width: 200px;
+}
+.movieContainer > div > div {
+  border-radius: 10px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.movieCardId {
+  background-color: rgba(255, 0, 0, 0.596);
+}
+
+.movieCardTitle {
+  background-color: rgba(255, 153, 0, 0.733);
+}
+.movieCardGenre {
+  background-color: green;
+}
+
+.movieCardGenre,
+.movieCardTitle,
+.movieCardId {
+  font-weight: bold;
+}
+
+.addBtn {
+  background-color: rgb(241, 160, 105);
+}
+
+.searchBtn {
+  background-color: rgb(150, 238, 142);
+}
+
+[data-modal] {
+  background-color: rgba(255, 255, 255, 0.815);
+}
+
+button {
+  height: 3em;
+  border-radius: 40px;
+  padding: 10px;
+  font-size: medium;
+  font-weight: bold;
+}
+
+dialog {
+  border-radius: 10px;
+  padding: 1em;
+  width: 60%;
+}
+
+.spinner {
+  border: 2px black solid;
+  grid-column: 2/3;
+  border-radius: 9999px;
+  width: 20%;
+  height: auto;
+}
+
+.movieCardImage {
+  border-radius: 30px;
+  width: 100%;
+  height: auto;
+}
+
+.appContainer {
+  margin: auto;
+  width: 60%;
+}
+
+@media only screen and (max-width: 600px) {
+  /* .movieContainer {
+    grid-template-columns: 1fr 1fr;
+  } */
+}
